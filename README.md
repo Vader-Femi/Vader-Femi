@@ -36,3 +36,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vader-femi&show_icons=true&locale=en" alt="vader-femi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vader-femi&" alt="vader-femi" /></p>
+
+[![Femi's wakatime stats](https://github-readme-stats-wkc5.vercel.app/api/wakatime?username=Vader_Femi&layout=compact)](https://github.com/Vader-Femi)
