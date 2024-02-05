@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **oluwafemi.za@gmail.com**
 
-- ⚡ Fun fact **I code like I'm writing a love letter**
+- ⚡ Fun fact **I code like I'm writing a love letter 😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
