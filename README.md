@@ -37,4 +37,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vader-femi&" alt="vader-femi" /></p>
 
-[![Femi's wakatime stats](https://github-readme-stats-wkc5.vercel.app/api/wakatime?username=Vader_Femi&layout=compact)](https://wakatime.com/@Vader_Femi)
+https://github-readme-stats-wkc5.vercel.app/api/wakatime?username=Vader_Femi&layout=compact)](https://github.com/Vader-Femi/github-readme-stats
