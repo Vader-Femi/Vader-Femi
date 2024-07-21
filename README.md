@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **Everything**
 
-- 🌱 I’m currently learning **Jetpack Compose, Flutter, Swift**
+- 🌱 I’m currently learning **Jetpack Compose, Swift, and Kotlin Multiplatform (KMP)**
 
 - 👨‍💻 All of my projects are available at [https://vader-femi.github.io/portfolio](https://vader-femi.github.io/portfolio)
 
-- 💬 Ask me about **Android, Flutter, Wear Os**
+- 💬 Ask me about **Kotlin, Compose, Swift, Wear Os**
 
 - 📫 How to reach me **oluwafemi.za@gmail.com**
 
