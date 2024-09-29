@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Flutter, and Kotlin Multiplatform (KMP)**
 
-- 👨‍💻 All of my projects are available at [https://vader-femi.github.io/portfolio](https://vader-femi.github.io/portfolio)
+- 👨‍💻 Learn more about me at [https://vader-femi.github.io/portfolio](https://vader-femi.github.io/portfolio)
 
 - 💬 Ask me about **Kotlin, Jetpack Compose, Flutter, Wear Os**
 
