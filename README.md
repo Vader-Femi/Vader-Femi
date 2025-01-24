@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/femiokedeyi" target="blank"><img src="https://img.shields.io/twitter/follow/femiokedeyi?logo=twitter&style=for-the-badge" alt="femiokedeyi" /></a> </p>
 
-- 🔭 I’m currently working on **Everything**
+- 🔭 I’m currently working on **Cool Stuff**
 
-- 🌱 I’m currently learning **Flutter, and Kotlin Multiplatform (KMP)**
+- 🌱 I’m currently learning **Flutter, and Data Science**
 
 - 👨‍💻 Learn more about me at [https://vader-femi.github.io/portfolio](https://vader-femi.github.io/portfolio)
 
@@ -23,6 +23,7 @@
 <p align="left">
 <a href="https://twitter.com/femiokedeyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="femiokedeyi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/oluwafemi-okedeyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oluwafemi-okedeyi" height="30" width="40" /></a>
+<a href="https://vader-femi.github.io/portfolio" target="blank"><img align="center" src="https://vader-femi.github.io/portfolio/#contact" alt="my portfolio" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13857610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13857610" height="30" width="40" /></a>
 <a href="https://instagram.com/femiokedeyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="femiokedeyi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/femiokedeyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="femiokedeyi" height="30" width="40" /></a>
