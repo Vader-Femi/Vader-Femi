@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Flutter, and Data Science**
 
-- 👨‍💻 Learn more about me at [https://vader-femi.github.io/portfolio](https://vader-femi.github.io/portfolio)
+- 👨‍💻 Learn more about me at [https://vader-femi-portfolio.vercel.app](https://vader-femi-portfolio.vercel.app)
 
 - 💬 Ask me about **Kotlin, Jetpack Compose, Flutter, Wear Os**
 
